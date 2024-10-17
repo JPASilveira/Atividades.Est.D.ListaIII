@@ -1,0 +1,8 @@
+# ninja log v6
+2	52	1729173393943746892	CMakeFiles/exerciseI.dir/exerciseI/main.c.o	2d357073146146f6
+52	75	1729173393993747497	exerciseI	f1cfa18f077b4227
+1	79	1729174531997519708	CMakeFiles/exerciseII.dir/exerciseII/main.c.o	d2f5ec3b231859ad
+2	81	1729174631329845997	CMakeFiles/exerciseII.dir/exerciseII/main.c.o	d2f5ec3b231859ad
+81	125	1729174631407847031	exerciseII	b83401a03f1bab3
+2	85	1729174774133721675	CMakeFiles/exerciseII.dir/exerciseII/main.c.o	d2f5ec3b231859ad
+86	137	1729174774217722769	exerciseII	b83401a03f1bab3
